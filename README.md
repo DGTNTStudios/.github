@@ -10,5 +10,4 @@ We're glad you're here. Here's a list of our channels:
 * and more coming soon!
 
 
-
 This organization is used for tutorial code hosting for DavidCode and website hosting for most of the channels.
